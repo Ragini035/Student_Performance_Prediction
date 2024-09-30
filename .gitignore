@@ -5,7 +5,11 @@ __pycache__/
 
 # C extensions
 *.so
-
+myenv/
+/myenv
+model.pkl
+.vscode/
+/.vscode
 # Distribution / packaging
 .Python
 build/
